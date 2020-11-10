@@ -1,0 +1,12 @@
+- name: RyoIchiki
+  bio: |
+    Something like a software developer or recruiter and so on.
+    I like black tea, especially flavored teas like Earl Gray.
+  avatar: ./avatars/ryichk.png
+  social:
+    - url: https://github.com/ryichk
+    - url: https://instagram.com/ryichk
+    - url: https://facebook.com/ryo.ichiki.3
+    - url: https://twitter.com/ryichk
+    # - url: https://note.com/ryichk
+  featured: true
