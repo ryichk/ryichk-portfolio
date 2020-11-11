@@ -1,3 +1,4 @@
+require('dotenv').config();
 module.exports = {
     siteMetadata: {
         title: `ryichk portfolio`,
@@ -68,6 +69,12 @@ module.exports = {
         {
             resolve: `gatsby-plugin-netlify-cms`,
             options: {},
+        },
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                trackingId: process.env.GOOGLE_ANALYTICS_ID,
+            },
         },
     ],
 };
