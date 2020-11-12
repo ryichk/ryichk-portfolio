@@ -6,7 +6,7 @@ module.exports = {
         siteUrl: `https://ryichk.com`,
         description: `I'm preparing now. Please come again in a while.`,
         hero: {
-            heading: `Welcome to ryichk portfolio. I'm like a software developer. And I'm doing some other things.`,
+            heading: `Welcome to ryichk portfolio.`,
             maxWidth: 652,
         },
         social: [{
