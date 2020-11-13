@@ -19,7 +19,7 @@ module.exports = {
             },
             {
                 name: `facebook`,
-                url: `https://facebook.com/ichiki.ryo.3`
+                url: `https://facebook.com/ryo.ichiki.3`
             },
             {
                 name: `twitter`,
