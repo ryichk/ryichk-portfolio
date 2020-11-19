@@ -40,6 +40,13 @@ module.exports = {
         ],
     },
     plugins: [{
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                trackingId: process.env.GOOGLE_ANALYTICS_ID,
+                head: true,
+            },
+        },
+        {
             resolve: "@narative/gatsby-theme-novela",
             options: {
                 contentPosts: "content/posts",
@@ -69,12 +76,6 @@ module.exports = {
         {
             resolve: `gatsby-plugin-netlify-cms`,
             options: {},
-        },
-        {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-                trackingId: process.env.GOOGLE_ANALYTICS_ID,
-            },
         },
     ],
 };
