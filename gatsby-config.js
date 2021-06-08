@@ -23,7 +23,7 @@ module.exports = {
             },
             {
                 name: `twitter`,
-                url: `https://twitter.com/ryichk`,
+                url: `https://twitter.com/ryichk_dev`,
             },
             // {
             //     name: `note`,
