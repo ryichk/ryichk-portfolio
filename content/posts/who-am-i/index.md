@@ -22,6 +22,9 @@ sorry. I'm preparing now. Please come back after a while. About a month.
 
 ## 1. About me
 
+I spend my holidays growing grass on Github, watching anime on Netflix, and watching music videos on Youtube.
+Or I go out to eat some delicious pancakes I found online.
+
 ## 2. My Favorite things
 
 ## 3. My interests
