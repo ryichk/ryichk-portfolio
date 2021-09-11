@@ -1,12 +1,12 @@
 require('dotenv').config();
 module.exports = {
     siteMetadata: {
-        title: `ryichk portfolio`,
+        title: `ryichk's portfolio`,
         name: `ryichk`,
         siteUrl: `https://ryichk.com`,
-        description: `I'm preparing now. Please come again in a while.`,
+        description: `This is a website that introduces ryichk's self and the apps coded by ryichk.`,
         hero: {
-            heading: `Welcome to ryichk portfolio.`,
+            heading: `Welcome to ryichk's portfolio.`,
             maxWidth: 652,
         },
         social: [{
