@@ -1,7 +1,9 @@
-- name: RyoIchiki
+- name: ryichk
   bio: |
-    Something like a software developer or recruiter and so on.
-    I like black tea, especially flavored teas like Earl Gray.
+    Something like a Software Developer.
+    I like JavaScript, TypeScript, Ruby and Golang.
+    I like both the backend and the frontend.
+    I would also like to improve my technical skills in the infrastructure area.
   avatar: ./avatars/ryichk.png
   social:
     - url: https://github.com/ryichk

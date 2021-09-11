@@ -1,12 +1,12 @@
 ---
 title: Who am I ?
-author: RyoIchiki
+author: ryichk
 date: 2020-11-10
 hero: ./images/hero.jpg
 excerpt: This is my self-introduction.
 ---
 
-Hi! Thank you for visitin my Web site.
+Hi. Thank you for visitin my Web site.
 
 This is my self-introduction.
 
@@ -23,6 +23,8 @@ sorry. I'm preparing now. Please come back after a while. About a month.
 ## 1. About me
 
 ## 2. My Favorite things
+
+I like black tea, especially flavored teas like Earl Gray.
 
 ## 3. My interests
 
