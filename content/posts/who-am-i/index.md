@@ -2,14 +2,19 @@
 title: Who am I ?
 author: ryichk
 date: 2020-11-10
-updated: 2021-09-12
 hero: ./images/ibaraki.jpg
 excerpt: This is my self-introduction.
 ---
 
-Hi. Thank you for visiting my Web site.
+updated: 2022/05/21
 
-This is my self-introduction.
+はじめまして。こんにちは。
+
+私のWebサイトにアクセスしていただきありがとうございます。
+
+これは私の自己紹介記事です。
+
+何気にこのブログが読まれることもありそうなので、少し更新しました。
 
 ## Table of contents
 
@@ -21,11 +26,31 @@ This is my self-introduction.
 
 ## 1. About me
 
-I was born in Ibaraki Prefecture and spent time in high school.
+私は茨城県下妻市というところで生まれ、高校時代までをそこで過ごしました。
 
-The top image is the local countryside.
+トップの写真は地元の田園風景です。常総線という路線が走っています。
 
-I moved to Chiba prefecture when I entered university, and after graduating from university, I live in Tokyo.
+都会では見ることがないワン車両ですね。そして見えている山は筑波山です。
+
+今思い返してみても結構のどかなところに住んでいたなぁと思います。
+
+大学進学と同時に千葉県船橋市に引っ越しました。
+
+大学では地球環境科学を専攻していました。
+
+何かの講義でITが地球環境問題の解決にも役立てられていることを知り、そこからITに興味を持つようになりました。
+
+私が最初に学んだプログラミング言語は、大学の授業でやったC言語でした。
+
+その後、Rubyを学び、卒業研究では、Ruby on Railsを使って環境家計簿アプリというWebアプリケーションを開発しました。
+
+そのアプリを学生さんに使ってもらって、環境に配慮した行動がどれくらい変化するかといった研究をしました。
+
+大学卒業後の現在は東京に住んでいます。
+
+お仕事はソフトウェアエンジニアをしています。
+
+主にWebアプリケーションの開発がメインです。
 
 <div className="Image__Small">
   <img
@@ -35,21 +60,23 @@ I moved to Chiba prefecture when I entered university, and after graduating from
   />
 </div>
 
-I majored in global environmental science at university.
+## 2. My Favorite things
 
-I became interested in IT when I learned that IT is useful for solving global environmental problems.
+趣味といった趣味はあまりないのですが、最近はWebアプリを作ったり、調べものをしたり、音楽を聴いたりして過ごすことが好きです。
 
-The first programming language I learned was C, which I learned in a university class.
+最近はGo言語のキャッチアップをしながらWebアプリを作ったりしています。
 
-After that, I studied Ruby, and in my graduation research, I created an environmental household account book application as a web application with Ruby on Rails, and studied the effect of that application on environmentally conscious behavior.
+好きな言語はJavaScript、TypeScript、Ruby、Goあたりですかね。(Goはまだキャッチアップ中ですが..)
 
-After graduating from university, I joined a system integration company, but I wanted to become a DevOps engineer for a service provider in the future, so I changed jobs at the beginning of the second year.
+好きなエディタはVSCodeです。
 
-Currently, I am mainly working on service maintenance and development at a Real Estate Tech company.
+調べものは、特にWebやシステム開発に関連する技術的なことが多いです。
 
-I spend my holidays growing grass on Github, watching anime on Netflix, and watching music videos on Youtube.
+音楽は、洋楽やKpopが好きで、Youtubeでミュージックビデオを見たりもします。
 
-Or I go out to eat some delicious pancakes I found online.
+その他、甘いものも好きですね。特にクレープのような生地ベースのスイーツが大好きです。
+
+最近はあまり行けてないですが、少し前までは[instagram](https://instagram.com/ryichk)で見つけた美味しそうなパンケーキを食べに出かけたりしていました。
 
 <div className="Image__Small">
   <img
@@ -59,13 +86,11 @@ Or I go out to eat some delicious pancakes I found online.
   />
 </div>
 
-## 2. My Favorite things
+また、少し前まではアニメを観たりすることも多かったのですが、最近はあまり観なくなってきていますね..
 
-I like sweets. I especially love dough-based sweets like crepes.
+好きなアニメはJoJoやサイコパス、ブルーピリオドなどが好きです。
 
-I like black tea, especially flavored teas like Earl Gray. It's great to have it with sweets.
-
-I like art so I sometimes go to museums.
+アートも好きなので、時々美術館に行ったりもします。(これも最近全然行けてないですが..)
 
 <div className="Image__Small">
   <img
@@ -75,34 +100,31 @@ I like art so I sometimes go to museums.
   />
 </div>
 
-My favorite languages ​​are JavaScript, TypeScript, Ruby and Golang.
-
-My favorite editor is VS Code.
 
 ## 3. My interests
 
 ### Technology
 
-I am interested in blockchain technology.
+直近はDB周りの技術(RDB, NoSQLなど)やネットワーク、設計技術やアルゴリズムに関する知識を増やしていきたいと考えています。
 
-I'm also interested in technologies such as Microservices, gRPC, and WebAssembly.
+また、ブロックチェーン技術に興味があるので、まだあまりキャッチアップできていないですが今後キャッチアップしていきたいと考えている技術の1つです。
 
 ### Business area
 
-I am interested in businesses that can be directly or indirectly involved in solving climate change issues.
+気候変動問題の解決に直接または間接的に関与できるビジネスに興味があります。
 
-For example, energy domain, carbon offset, carbon neutral, etc ...
+例として、エネルギー問題やカーボンオフセット、カーボンニュートラルなど…
 
-I believe that the use of blockchain technology is effective for these.
+今すぐでなくとも将来的に関わることができたらいいなと考えています。
 
 ## 4. What I'm doing now
 
-I am working hard every day to improve my skills in web application development.
+Webアプリケーション開発のスキル向上に日々励んでいます。
 
-I would like to acquire a wide range of skills such as front end, back end, and infrastructure area.
+現在は、フロントエンド・バックエンド・インフラなど特定の領域に絞らず、幅広いスキルを身につけていきたいと考えています。
 
 ## 5. What I want to do in the future
 
-I want to be an engineer who can contribute to the growth of the business area of ​​interest by using the technology that I am interested in.
+ソフトウェアエンジニアとしてサービス・プロダクトの成長、事業の成長に貢献していきたいです。
 
-And I want to be influenced by various people, influence various people, grow as an engineer and a business person, and have an impact on society.
+さまざまな人に影響を受け、さまざまな人に影響を与え、ソフトウェアエンジニアとして、ビジネスパーソンとして成長し、社会に良い影響を与えたいです。
