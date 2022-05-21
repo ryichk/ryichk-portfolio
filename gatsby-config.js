@@ -25,18 +25,6 @@ module.exports = {
                 name: `twitter`,
                 url: `https://twitter.com/ryichk_dev`,
             },
-            // {
-            //     name: `note`,
-            //     url: `https://note.com/ryichk`
-            // }
-            // {
-            //     name: `linkedin`,
-            //     url: `https://www.linkedin.com/company/ryichk/`,
-            // },
-            // {
-            //     name: `dribbble`,
-            //     url: `https://dribbble.com/ryichkstudio`,
-            // },
         ],
     },
     plugins: [{
@@ -57,7 +45,6 @@ module.exports = {
                 authorsPage: true,
                 sources: {
                     local: true,
-                    // contentful: true,
                 },
             },
         },
